@@ -14,3 +14,7 @@ captures/
 .flutter-plugins
 .flutter-plugins-dependencies
 pubspec.lock
+# Widget Preview related
+.widget_preview/
+*.log
+**/GeneratedPluginRegistrant.java
